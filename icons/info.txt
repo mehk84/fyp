@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Decalotype-MediumItalic
+font link: https://hanken.co/product/decalotype/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+Slogan Font: Questrial-Regular.otf
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"#F2EDED","icon-gradient-0":"#5A0E1D","icon-gradient-1":"#B39984","font":"#362120","slogan":"#4a3534"}
+      

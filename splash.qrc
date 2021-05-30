@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="splashscreenimages">
+    <file>icons/default.png</file>
+    <file>icons/youtube-logo-png-2067.png</file>
+  </qresource>
+</RCC>
